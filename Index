@@ -176,7 +176,7 @@ currIdUser="2247949"
 		<!--<script type="text/javascript" src="./javascriptfiles/wz_tooltip/wz_tooltip.js"></script>-->
 		<hiddenF id="eventid" valeur='' /></hiddenF>
 		<input id="bc" value='' type="hidden"  />
-		<form name="aspnetForm" method="post" action="fListeManifs.aspx?idstructure=0500&amp;EventId=152&amp;wasProfilALibe=WAC&amp;ProfilAPass=NOPASSW" id="aspnetForm">
+		<form name="aspnetForm" method="post" action="fListeManifs.aspx?idstructure=0500&amp;EventId=152" id="aspnetForm">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
